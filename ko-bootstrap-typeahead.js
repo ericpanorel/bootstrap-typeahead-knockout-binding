@@ -1,6 +1,6 @@
 /*!
  * knockoutJs binding handler for Bootstrap TypeAhead plugin
- * for asynchronous source
+ * used in my case for asynchronous source(s)
  * by: Eric Panorel
  * http://www.ericpanorel.net
  */
